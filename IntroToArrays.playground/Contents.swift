@@ -24,3 +24,15 @@ for name in fruitNames
 
 //Part 8
 print(fruitNames[1])
+
+
+//On Your Own Problem Sets
+//Problem set #1
+var fancyCars: [String]
+fancyCars = ["Rolls-Royce Boat Tail", "Bugatti la Voiture Noire", "Pagani Zonda HP Barchetta", "Rolls-Royce Sweptail", "Bugatti Centodieci", "Lamborghini Veneno", "Maybach Exelero", "Bugatti Divo"]
+
+for name in fancyCars
+{
+    print(name + " is a very expensive car")
+}
+print(fancyCars[0])
